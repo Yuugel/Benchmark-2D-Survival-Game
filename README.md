@@ -10,6 +10,8 @@ Organisiere die Entwicklung autonom und liefere im Rahmen des jeweils zugeteilte
 
 ## Benchmark-Hinweise
 
+- Protokolliere nach jeder Phase Arbeitszeit, Git-Checkpoint und – soweit tatsächlich ablesbar – das verbleibende Wochenkontingent in [`BENCHMARK_LOG.md`](BENCHMARK_LOG.md). **Keine Kontingentwerte schätzen oder erfinden.**
+
 - Die konkreten Phasenaufträge sowie Zeit- und Kontingentgrenzen werden **separat zum jeweiligen Phasenstart** mitgeteilt.
 - Dieses Repository ist die **unveränderte Ausgangsvorlage**, kein gemeinsamer Arbeitsbereich. Entwickle ausschließlich in deinem zugewiesenen Ergebnis-Repository.
 - Sorge dafür, dass dein Ergebnis aus einem frischen Checkout nachvollziehbar gestartet werden kann, und dokumentiere die nötigen Schritte.
