@@ -19,14 +19,16 @@ Dieses Protokoll gehört zur **Messung**, nicht zur Spielaufgabe. Es ist nicht d
 - **Umgebung:** Gleiche Python-/Pygame-Version und identische Plattform für alle; lokale Installation und Systemzugriff vor Start kontrollieren. Unbeabsichtigte Paketinstallationen und Tools außerhalb des zugelassenen Scope dokumentieren.
 - **Menschliche Eingriffe:** Rückfragen, Hilfen und Stopps dokumentieren. Freigaben an Budget-Grenzen sind neutrale Messhandlungen, keine Qualitätsabzüge.
 
+- **Dauer in Minuten:** Verstrichene Zeit von Phasenbeginn bis zum gesicherten Phasenende einschließlich Tests und Dokumentation eintragen; längere externe Unterbrechungen zusätzlich vermerken, damit die aktive Bearbeitungszeit nachvollziehbar bleibt. Keinen geschätzten Minutenwert eintragen.
+
 ## Verbrauch und Fortschritt
 
-| Phase | Beginn (Berlin) | Ende (Berlin) | Wochenrest vorher (%) | Wochenrest nachher (%) | Verbrauch (Prozentpunkte) | Messquelle | Git-Checkpoint (SHA/Tag) |
-|---|---|---|---:|---:|---:|---|---|
-| 1. Planung | — | — | n. v. | n. v. | n. v. | — | — |
-| 2. MVP | — | — | n. v. | n. v. | n. v. | — | — |
-| 3. Nacharbeit | — | — | n. v. | n. v. | n. v. | — | — |
-| 4. Integrität | — | — | n. v. | n. v. | n. v. | — | — |
+| Phase | Beginn (Berlin) | Ende (Berlin) | Dauer (Min.) | Wochenrest vorher (%) | Wochenrest nachher (%) | Verbrauch (Prozentpunkte) | Messquelle | Git-Checkpoint (SHA/Tag) |
+|---|---|---|---:|---:|---:|---:|---|---|
+| 1. Planung | — | — | — | n. v. | n. v. | n. v. | — | — |
+| 2. MVP | — | — | — | n. v. | n. v. | n. v. | — | — |
+| 3. Nacharbeit | — | — | — | n. v. | n. v. | n. v. | — | — |
+| 4. Integrität | — | — | — | n. v. | n. v. | n. v. | — | — |
 
 *Berechnung (nur ohne Reset/Fremdverbrauch und bei verlässlicher Anzeige): Verbrauch in Prozentpunkten = Wochenrest vorher − Wochenrest nachher. Nicht auf Prozent relativ zur Restmenge umrechnen.*
 
